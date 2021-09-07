@@ -1,0 +1,50 @@
+body
+{
+	background-image:url(formimg.jpg);
+	/*background-size:cover;*/
+}
+.formdiv
+{
+	
+	background-color:#2A2A49;
+	width:60%;
+	padding: 50px;
+	opacity: 0.8;
+	border-radius: 20px;
+}
+.textbox
+{
+	padding: 5px;
+	border-radius: 10px;
+	width:80%;
+	height:25px;
+	padding-left:10px;
+}
+.heading
+{
+	width:30%;
+	color:white;
+	font-weight:bold;
+}
+.label
+{
+	color:white;
+	font-size:25px;
+}
+#role
+{
+	height:35px;
+}
+.margin
+{
+	margin:auto;
+	margin-top:30px;
+	margin-bottom:30px;
+
+}
+input{
+	border:1px solid white;
+}
+input:focus{
+	outline: none;
+}
